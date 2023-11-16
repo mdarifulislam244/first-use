@@ -4,7 +4,7 @@ public class Hello{
         greetings("Merajul Islam");
     }
 
-    public static void greetings(string name){
+    public static void greetings(string[] name){
         system.out.println("Welcome" + name);
     }
 }
